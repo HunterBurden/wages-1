@@ -1,7 +1,7 @@
 /*
  *      Author: Nasseef Abukamail
  *   Date: 2018-09-05
- * Description: Add Description
+ * Description: This program calculates wages for a single employee using hours and hourly rates.
  */
 
 #include <iostream>
